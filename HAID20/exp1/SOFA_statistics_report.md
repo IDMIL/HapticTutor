@@ -315,5 +315,3 @@ normality. If p is small, e.g. less than 0.01, or 0.001, you can assume
 the distribution is not strictly normal. Note - it may be normal enough 
 though.</p>
 
-
-<div style="position: absolute; left: -10000px; top: 0px; border-width: 0px; margin: 0px; padding: 0px; outline: currentcolor none 0px; font: 10pt Arial;" class=""><br>DL<br>P<br>R<br></div></body></html>
