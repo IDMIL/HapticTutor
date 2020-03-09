@@ -7,4 +7,4 @@ SOFA Statistics for experiment 1 : https://github.com/IDMIL/HapticTutor/blob/mas
 
 Drum lesson video : https://drive.google.com/drive/folders/1WA17eYV099KyP2SLDPdWTF3evYekXKSV?usp=sharing
 
-Snippets of participants (who agreed for video recording) in DL and haptic conditions: 
+Snippets of participants (who agreed for video recording) in DL and haptic conditions: https://youtu.be/L-nCNtfSnB8
